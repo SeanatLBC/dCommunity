@@ -21,7 +21,7 @@ dCommunity Webpage:  https://www.dcommunity.io/
 
 dCommunity FB:  https://www.facebook.com/dCommunityHub
 
-dCommunity Twitter:  https://twitter.com/LBC23729981
+dCommunity Twitter:  https://twitter.com/dcommunity_main
 
 dCommunity Telegram:  https://t.me/dcommunityhub
 
