@@ -30,3 +30,5 @@ dCommunity Telegram:  https://t.me/dcommunityhub
 
 NFT Descriptions - Do's and Dont's:  https://editorial.mintable.app/2021/09/04/nft-descriptions-dos-and-donts/?utm_source=newsletter&utm_medium=email&utm_campaign=Weekly+blog+updates+%E2%80%93+29+April&cmid=1d14fbec-fded-4d2d-bb6f-dcaaba0f18cd
 
+Step by Step - Setting up your ENS (Ethereum Name Service):  https://medium.com/the-ethereum-name-service/step-by-step-guide-to-importing-a-dns-domain-name-to-ens-d2d15feb03e8
+
