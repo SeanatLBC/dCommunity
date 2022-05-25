@@ -27,6 +27,8 @@ dCommunity Twitter:  https://twitter.com/dcommunity_main
 
 dCommunity Telegram:  https://t.me/dcommunityhub
 
+Fairmint - Web3 Fundraising (2 minute intro video):  https://youtu.be/Xi_D6FeXK4A
+
 
 NFT Descriptions - Do's and Dont's:  https://editorial.mintable.app/2021/09/04/nft-descriptions-dos-and-donts/?utm_source=newsletter&utm_medium=email&utm_campaign=Weekly+blog+updates+%E2%80%93+29+April&cmid=1d14fbec-fded-4d2d-bb6f-dcaaba0f18cd
 
