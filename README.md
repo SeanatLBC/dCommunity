@@ -4,6 +4,8 @@ Where Main Street meets Metaverse
 dCommunity is focused on bringing Web3 solutions to Small Businesses, Communities, Organizations, and Individuals.  
 
 dCommunity is being built on the self-organizing power of decentralization.
+
+FOR THINGS BITCOIN | ETHEREUM | PLAFORM etc - please see the specific LBC Repositories we have put together.
 _________________________________________________________________________________________________________________________
 
 
