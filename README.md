@@ -36,3 +36,5 @@ NFT Descriptions - Do's and Dont's:  https://editorial.mintable.app/2021/09/04/n
 
 Step by Step - Importing your DNS to ENS (Ethereum Name Service):  https://medium.com/the-ethereum-name-service/step-by-step-guide-to-importing-a-dns-domain-name-to-ens-d2d15feb03e8
 
+The direction that NFT development is going - Oct22 (and applications resulting):  https://flrfinance.medium.com/pushing-the-boundaries-with-nfts-cc10ec52b427
+
