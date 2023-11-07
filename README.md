@@ -11,17 +11,13 @@ ________________________________________________________________________________
 
 WHERE WE ARE:
 
+dCommunity Webpage:  https://www.dcommunity.io/
+
 dCommunity Giphy:  https://giphy.com/channel/dCommunity
 
 dCommunity OpenSea:  https://opensea.io/dCommunity
 
 dCommunity Rarible:  https://rarible.com/dcommunity/owned
-
-dCommunity Optin I:  https://sean953705.clickfunnels.com/optin1644098673775
-
-dCommunity Optin II:  https://sean953705.clickfunnels.com/optin1643488156546
-
-dCommunity Webpage:  https://www.dcommunity.io/
 
 dCommunity FB:  https://www.facebook.com/dCommunityHub
 
@@ -30,7 +26,6 @@ dCommunity Twitter:  https://twitter.com/dcommunity_main
 dCommunity Telegram:  https://t.me/dcommunityhub
 
 Fairmint - Web3 Fundraising (2 minute intro video):  https://youtu.be/Xi_D6FeXK4A
-
 
 NFT Descriptions - Do's and Dont's:  https://editorial.mintable.app/2021/09/04/nft-descriptions-dos-and-donts/?utm_source=newsletter&utm_medium=email&utm_campaign=Weekly+blog+updates+%E2%80%93+29+April&cmid=1d14fbec-fded-4d2d-bb6f-dcaaba0f18cd
 
