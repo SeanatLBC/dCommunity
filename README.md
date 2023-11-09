@@ -214,3 +214,62 @@ Articles of interest:
 
 Why Bitcoin is Different (by Jimmy Song): https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 
+ETHEREUM IS THE TRANSACTION LAYER
+
+All things ETH: https://ethereum.org/en/
+
+The Definitive Ethereum Readling List: https://pin.ski/3Sr5yTS
+
+Ethereum
+
+Ethereum Etherescan: https://etherscan.io/
+
+Ethereum Ethplorer: https://ethplorer.io/
+
+Ethereum Gas Station: https://ethgasstation.info/
+
+Ehtereum Gas TRACKER: https://etherscan.io/gastracker#gassender
+
+Zapper (user freindly wallet dashboard): https://zapper.fi/dashboard
+
+Beacon Chain Explorer: https://beaconcha.in/
+
+EthHub - A Guide to PoS on ETH 2.0: https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/
+
+EthHub - Article on ETH 2.0 Tokenomics: https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/
+
+Zeppelin - EVERYTHING TOKENS (ERC20 and ERC721): https://docs.openzeppelin.com/contracts/2.x/tokens.html
+
+What is Decentralization (by Vitalik): https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+
+HOW TO CANCEL AN ETH TRANSACTION (OR REPLACE WITH HIGHER GAS FEE) - this can be handy when the network gets congested: https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/#replacing-cancel-pending-transactions
+
+MyEtherWallet (MEW): https://www.myetherwallet.com/
+
+LEDGER (and Ledger Live): How to set up your Ledger X and Ledger Live Video by Crypto Dad: https://www.youtube.com/watch?v=8pJbvhuPrRQ&feature=youtu.be
+
+MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS): https://mewconnect.myetherwallet.com/#/
+
+MetaMask (A great wallet for ETH and dAPP's that can sit on your browser): https://metamask.io/ Guide to Using MetaMask: https://cryptobriefing.com/metamask-beginner-guide/ How to Set Up MetaMask: https://blog.injectiveprotocol.com/how-to-set-up-metamask/
+
+WHAT IS GAS? A good explainer video by Unstoppable Domains on GAS differences with ETH Transactions: https://youtu.be/h3rP3Ptvka4
+
+RUG SCREEN - Copy and paste your contract or solidity code to scan for potential pitfalls: https://rugscreen.com/Scan/Index
+
+ChainID - details on all chains running on EVM: https://chainid.network/
+
+How to CANCEL a Pending ETH Transaction: https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/#replacing-cancel-pending-transactions
+
+How to CHECK TOKEN BALANCES on your Ethereum Address: https://info.etherscan.com/token-balance-checker/
+
+UNDO Button for ETH: https://decrypt.co/47987/bitcoin-undo-button-comes-to-ethereum-blockchain
+
+ENS - Ethereum Name Service (customize your public address | decentralized web domain): https://ens.domains/
+
+MEW CX - Web3: https://medium.com/myetherwallet/mew-cx-the-web3-wallet-that-puts-the-user-in-full-control-90452755b4
+
+GaaS and CaaS: Gas as a Service and Confirmation as a Service - REN: https://medium.com/renproject/gatewayjs-caas-and-gaas-7e03817d8034
+
+AIRDROPS (status of past, present and upcoming airdrops): https://coinairdrops.com/#airdroplist
+
+THE MEV Issue (Miner Extractable Value): https://www.coindesk.com/ethereum-mev-frontrunning-solutions
