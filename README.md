@@ -11,6 +11,8 @@ ________________________________________________________________________________
 
 WHERE WE ARE:
 
+dCommunity Hub [Our Docs | Gitbook]:  https://dcommunity.gitbook.io/dcommunity-where-main-street-meets-metaverse/
+
 dCommunity Webpage:  https://www.dcommunity.io/
 
 dCommunity Giphy:  https://giphy.com/channel/dCommunity
