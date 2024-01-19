@@ -13,6 +13,8 @@ WHERE WE ARE:
 
 dCommunity Hub [Our Docs | Gitbook]:  https://dcommunity.gitbook.io/dcommunity-where-main-street-meets-metaverse/
 
+Join dCommunity [Free Multichain EZ Onboard dCommunity Wallet]:  https://dcom-wallet.netlify.app/login
+
 dCommunity Webpage:  https://www.dcommunity.io/
 
 dCommunity Giphy:  https://giphy.com/channel/dCommunity
