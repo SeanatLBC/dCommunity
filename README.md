@@ -17,6 +17,12 @@ Join dCommunity [Free Multichain EZ Onboard dCommunity Wallet]:  https://dcom-wa
 
 dCommunity Webpage:  https://www.dcommunity.io/
 
+dCommunity GitBook:  https://dcommunity.gitbook.io/dcommunity-where-main-street-meets-metaverse
+
+dCommunity Twitter:  https://twitter.com/dcommunity_main
+
+dCommunity Discord:  https://discord.gg/bcfrHEq8
+
 dCommunity Giphy:  https://giphy.com/channel/dCommunity
 
 dCommunity OpenSea:  https://opensea.io/dCommunity
@@ -24,8 +30,6 @@ dCommunity OpenSea:  https://opensea.io/dCommunity
 dCommunity Rarible:  https://rarible.com/dcommunity/owned
 
 dCommunity FB:  https://www.facebook.com/dCommunityHub
-
-dCommunity Twitter:  https://twitter.com/dcommunity_main
 
 dCommunity Telegram:  https://t.me/dcommunityhub
 
