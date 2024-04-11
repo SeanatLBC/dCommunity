@@ -5,7 +5,13 @@ dCommunity is focused on bringing Web3 solutions to Small Businesses, Communitie
 
 dCommunity is being built on the self-organizing power of decentralization.
 
-FOR THINGS BITCOIN | ETHEREUM | PLAFORM etc - please see the specific LBC Repositories we have put together.
+FOR Additional [and Historical] THINGS BITCOIN | ETHEREUM | PLAFORM etc - please see the specific LBC Repositories we have put together.
+
+2024 Bitcoin Notables:
+
+     *  Runesbase [RUNES]:  https://downloads.runebase.io/paper.pdf | https://coinmarketcap.com/currencies/runebase/
+     *  Bittensor [TAO]:  https://bittensor.com/ | https://coinmarketcap.com/currencies/bittensor/
+     *  THORchain [RUNE]:  https://thorchain.org/ | https://coinmarketcap.com/currencies/thorchain/
 _________________________________________________________________________________________________________________________
 
 
