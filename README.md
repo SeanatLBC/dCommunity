@@ -7,6 +7,8 @@ dCommunity is being built on the self-organizing power of decentralization.
 
 FOR Additional [and Historical] THINGS BITCOIN | ETHEREUM | PLAFORM etc - please see the specific LBC Repositories we have put together.
 
+Current and Upcoming:  We are fortunate to have access to developments going on in many areas of this space.  This helps us to best direct our time and attention. You can follow our socials or join the community [below] for the most current updates, while also finding research on upcoming trends in here.
+
 2024 Bitcoin Notables:
 
      *  Runesbase [RUNES]:  https://downloads.runebase.io/paper.pdf | https://coinmarketcap.com/currencies/runebase/
