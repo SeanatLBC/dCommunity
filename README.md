@@ -5,6 +5,10 @@ dCommunity is focused on bringing Web3 solutions to Small Businesses, Communitie
 
 dCommunity is being built on the self-organizing power of decentralization.
 
+Check out our Linktree:  https://linktr.ee/mainandmeta
+
+AvenueD:  Beyond Main and Meta is AvenueD - where you will find the dCommunity Gamified Marketing Platform.  This is where businesses, brands and creators will engage with the end user who will Win and Earn in the process.  The engagement is authentic and meaningful creating value for both sides!
+
 FOR Additional [and Historical] THINGS BITCOIN | ETHEREUM | PLAFORM etc - please see the specific LBC Repositories we have put together.
 
 Current and Upcoming:  We are fortunate to have access to developments going on in many areas of this space.  This helps us to best direct our time and attention. You can follow our socials or join the community [below] for the most current updates, while also finding research on upcoming trends in here.
