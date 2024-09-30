@@ -25,7 +25,7 @@ WHERE WE ARE:
 
 dCommunity Hub [Our Docs | Gitbook]:  https://dcommunity.gitbook.io/dcommunity-where-main-street-meets-metaverse/
 
-Join dCommunity [Free Multichain EZ Onboard dCommunity Wallet]:  https://dcom-wallet.netlify.app/login
+Join dCommunity [AvenueD]:  https://avenued-dcommunity-io.vercel.app/
 
 dCommunity Webpage:  https://www.dcommunity.io/
 
